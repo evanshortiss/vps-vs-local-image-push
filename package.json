@@ -1,0 +1,24 @@
+{
+  "name": "vps-vs-local-image-push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "~2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanshortiss/vps-vs-local-image-push.git"
+  },
+  "keywords": [],
+  "author": "Evan Shortiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanshortiss/vps-vs-local-image-push/issues"
+  },
+  "homepage": "https://github.com/evanshortiss/vps-vs-local-image-push#readme"
+}
